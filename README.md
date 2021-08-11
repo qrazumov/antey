@@ -11,3 +11,7 @@
 * vuejs + vuetify + vuex
 * spa app
 * restful api
+
+`web client:`
+
+http://602879-cc68307.tmweb.ru/
